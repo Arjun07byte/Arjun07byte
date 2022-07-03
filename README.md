@@ -8,7 +8,7 @@
 * Android Developer ❤
 * Wants to solve errors in C++ all the time 👨‍💻
 * Hobbies : ⚽ and ⚽
-* Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/jaydip-dey-8a90221b2/) ! 
+* Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/arjun-yadav-65ba8b202/) ! 
 
 ### Mostly Work With ⚒
 
