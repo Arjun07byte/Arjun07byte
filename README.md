@@ -17,7 +17,13 @@
 ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
-![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=222222&logo=Heroku&logoColor=FFCA28&label=)<br><br>
+![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=222222&logo=Heroku&logoColor=FFCA28&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=7F52FF&logo=Python&logoColor=FFFFFF&label=)
+![XML](https://img.shields.io/static/v1?style=for-the-badge&message=XML&color=7F52FF&logo=XML&logoColor=FFFFFF&label=)
+![HTML](https://img.shields.io/static/v1?style=for-the-badge&message=HTML&color=7F52FF&logo=HTML5&logoColor=FFFFFF&label=)
+![CSS](https://img.shields.io/static/v1?style=for-the-badge&message=CSS&color=7F52FF&logo=CSS3&logoColor=FFFFFF&label=)
+![Javascript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=7F52FF&logo=JavaScript&logoColor=FFFFFF&label=)
+![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=7F52FF&logo=Ubuntu&logoColor=FFFFFF&label=)<br><br>
 
 |<img src="https://github-readme-stats.vercel.app/api?username=OnlyArjun&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=OnlyArjun&count_private=true&include_all_commits=true&&theme=tokyonight"/>|
 |---|---|
