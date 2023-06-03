@@ -25,7 +25,7 @@
 ![Javascript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=7F52FF&logo=JavaScript&logoColor=FFFFFF&label=)
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=7F52FF&logo=Ubuntu&logoColor=FFFFFF&label=)<br><br>
 
-|<img src="https://github-readme-stats.vercel.app/api?username=OnlyArjun&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=OnlyArjun&count_private=true&include_all_commits=true&&theme=tokyonight"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=Arjun07byte&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun07byte&count_private=true&include_all_commits=true&&theme=tokyonight"/>|
 |---|---|
 <div align="center">
 
@@ -45,13 +45,13 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Arjun Yadav Linkedin style="margin-right: 20px;" />
 </a>
  
- <a href="https://github.com/OnlyArjun" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=Jaydip Dey GitHub style="margin-right: 20px;" />
+ <a href="https://github.com/Arjun07byte" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=Arjun Yadav GitHub style="margin-right: 20px;" />
 </a>
 
 
-<a href="mailto:messi.fcbarcel10@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Jaydip Dey gmail style="margin-right: 20px;" />
+<a href="mailto:ajyadav2002ay@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Arjun Yadav gmail style="margin-right: 20px;" />
 </a>
      
 </div>  
