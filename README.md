@@ -29,7 +29,7 @@
 |---|---|
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyArjun&layout=compact&theme=midnight-purple)](https://github.com/OnlyArjun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun07byte&layout=compact&theme=midnight-purple)](https://github.com/Arjun07byte)
 </div>
 <div align="center">
 
