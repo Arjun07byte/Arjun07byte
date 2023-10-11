@@ -33,10 +33,6 @@
 <div align="center">
 
 
-
-
-![Profile views](https://komarev.com/ghpvc/?username=Arjun07byte&label=Profile+Views)
-
 ### Let's Connect 🤝
 
 <div style="display:flex; justify-content:center;margin-bottom:10px">
