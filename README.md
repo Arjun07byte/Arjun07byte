@@ -24,7 +24,7 @@
 ![Javascript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=7F52FF&logo=JavaScript&logoColor=FFFFFF&label=)
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=7F52FF&logo=Ubuntu&logoColor=FFFFFF&label=)<br><br>
 
-|<img src="https://github-readme-stats.vercel.app/api?username=Arjun07Byte&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun07Byte&count_private=true&include_all_commits=true"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=Arjun07byte&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun07byte&count_private=true&include_all_commits=true"/>|
 |---|---|
 <div align="center">
 
@@ -35,7 +35,7 @@
 
 
 
-![Profile views](https://komarev.com/ghpvc/?username=Arjun07Byte)
+![Profile views](https://komarev.com/ghpvc/?username=Arjun07byte&label=Profile+Views)
 
 ### Let's Connect 🤝
 
