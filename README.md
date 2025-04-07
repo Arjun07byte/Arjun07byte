@@ -65,7 +65,7 @@
 ### Let's Connect 🤝
 
 <div style="display:flex; justify-content:center;margin-bottom:10px">
- <a href="https://www.linkedin.com/in/arjun-yadav-65ba8b202/" target="_blank">
+ <a href="https://www.linkedin.com/in/arjun--yadav/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Arjun Yadav Linkedin style="margin-right: 20px;" />
 </a>
  
