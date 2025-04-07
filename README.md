@@ -1,37 +1,66 @@
-# Hi there I'm Arjun Yadav !
+<h1 align="center">👋 Hey there, I’m Arjun!</h1>
 
+<p align="center">
+  <i> Android Developer | Kotlin Enthusiast | Open Source Contributor | Tech Explorer | Competitive Programmer | C++ Explorer</i>
+</p>
 
-## Welcome to my profile 💻
-* B.Sc Computer Science Student at Delhi University, New Delhi 🎓
-* Competitive Programmer ❤
-* Android Developer ❤
-* Wants to solve errors in C++ all the time 👨‍💻
-* Hobbies : ⚽ and ⚽
-* Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/arjun-yadav-65ba8b202/) ! 
+🎯 I'm a passionate **Android Developer** with 2 years of experience building sleek, scalable, and functional mobile apps using **Kotlin**, **Jetpack Compose**, and modern Android architecture.
 
-### Mostly Work With ⚒
+💻 Currently working remotely at **Cube Wealth**, building fintech apps and leveling up the user's experience.
 
+🧠 Actively learning Android, DevOps, and DSA mock interviews while exploring backend with Spring Boot & Kotlin.
 
-![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)
-![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=)
-![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
-![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
-![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=222222&logo=Heroku&logoColor=FFCA28&label=)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=7F52FF&logo=Python&logoColor=FFFFFF&label=)
-![XML](https://img.shields.io/static/v1?style=for-the-badge&message=XML&color=7F52FF&logo=XML&logoColor=FFFFFF&label=)
-![HTML](https://img.shields.io/static/v1?style=for-the-badge&message=HTML&color=7F52FF&logo=HTML5&logoColor=FFFFFF&label=)
-![CSS](https://img.shields.io/static/v1?style=for-the-badge&message=CSS&color=7F52FF&logo=CSS3&logoColor=FFFFFF&label=)
-![Javascript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=7F52FF&logo=JavaScript&logoColor=FFFFFF&label=)
-![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=7F52FF&logo=Ubuntu&logoColor=FFFFFF&label=)<br><br>
+📢 I also share daily dev content and learnings on **LinkedIn** and love connecting with fellow developers.
 
-|<img src="https://github-readme-stats.vercel.app/api?username=Arjun07byte&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun07byte&count_private=true&include_all_commits=true"/>|
-|---|---|
-<div align="center">
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun07byte&layout=compact&theme=midnight-purple)](https://github.com/Arjun07byte)
-</div>
-<div align="center">
+### 🧰 Tech Stack
 
+<p align="left">
+  <a href="https://kotlinlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/></a>
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/></a>
+</p>
+
+---
+
+### 💼 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🔗 [**Shorten_Link_Android**](https://github.com/Arjun07byte/Shorten_Link_Android) | A URL shortener Android app using Firebase 🔥 |
+| 🧑‍🎓 [**PlacementCell-Bot**](https://github.com/Arjun07byte/PlacementCell-Bot) | Telegram bot for managing student placement activities |
+| 💬 [**ChatOn_Android_Kotlin**](https://github.com/Arjun07byte/ChatOn_Android_Kotlin) | Real-time chat app using Firebase and Kotlin |
+| 🌐 [**Portfolio_V2**](https://github.com/Arjun07byte/Portfolio_V2) | Personal dev portfolio built with modern UI |
+| 📝 [**Todo_App**](https://github.com/Arjun07byte/Todo_App) | Clean MVVM app with Room DB and Coroutines |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjun07byte&show_icons=true&theme=tokyonight" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arjun07byte&theme=tokyonight" />
+</p>
+
+---
+
+### 🌱 Currently Exploring
+
+- 🧪 **DevOps basics** – Docker, CI/CD pipelines, system design
+- 📊 **Data Science foundations** – Python, NumPy, Pandas, ML basics
+- ⚙️ **Spring Boot with Kotlin** – Backend APIs & services
+
+---
 
 ### Let's Connect 🤝
 
@@ -50,3 +79,15 @@
 </a>
      
 </div>  
+
+---
+
+### ⚡ Fun Facts
+
+- I’m a footballer ⚽️ recovering from an ACL tear – back in training mode 💪
+- I enjoy posting short, practical Android dev tips on LinkedIn 💡
+- I plan to launch my new Play Store app soon 📱🚀
+
+---
+
+<p align="center">✨ Thanks for visiting! Let's build something amazing together.</p>
