@@ -33,18 +33,6 @@
 
 ---
 
-### 💼 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🔗 [**Shorten_Link_Android**](https://github.com/Arjun07byte/Shorten_Link_Android) | A URL shortener Android app using Firebase 🔥 |
-| 🧑‍🎓 [**PlacementCell-Bot**](https://github.com/Arjun07byte/PlacementCell-Bot) | Telegram bot for managing student placement activities |
-| 💬 [**ChatOn_Android_Kotlin**](https://github.com/Arjun07byte/ChatOn_Android_Kotlin) | Real-time chat app using Firebase and Kotlin |
-| 🌐 [**Portfolio_V2**](https://github.com/Arjun07byte/Portfolio_V2) | Personal dev portfolio built with modern UI |
-| 📝 [**Todo_App**](https://github.com/Arjun07byte/Todo_App) | Clean MVVM app with Room DB and Coroutines |
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
