@@ -72,7 +72,7 @@
 
 ### ⚡ Fun Facts
 
-- I’m a footballer ⚽️ recovering from an ACL tear – back in training mode 💪
+- I’m a footballer ⚽️ scoring goals every sunday!! 💪
 - I enjoy posting short, practical Android dev tips on LinkedIn 💡
 - I plan to launch my new Play Store app soon 📱🚀
 
